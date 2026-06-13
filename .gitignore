@@ -1,3 +1,4 @@
+# Ignore rules
 __pycache__/
 *.pyc
 .env
